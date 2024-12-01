@@ -1,5 +1,9 @@
 # library-management-system-app
 
+Python, Tkinter, MySQL
+Developed a comprehensive Library Management System to streamline the management of library operations. The system offers functionalities to manage book inventory, track member information, and handle book borrowing and returns.
+
+
 ![LMS-Light](https://github.com/user-attachments/assets/30f59f11-f25c-4f34-9999-f3e1dbbcbf0f)
 ![LMS-Dark](https://github.com/user-attachments/assets/ce0b6c8a-8ed4-4044-9eeb-e693ac3315b0)
 ![Add Book](https://github.com/user-attachments/assets/5c13b417-4ce4-47ab-bbe4-4ee40b9186b3)
